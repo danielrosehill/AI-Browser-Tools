@@ -123,6 +123,7 @@ Supporting tools for building and debugging AI browser applications.
 
 | Project | Stars | Description |
 |---------|-------|-------------|
+| [BrowserTrace](https://github.com/aaronlab/browsertrace) | ![Stars](https://img.shields.io/github/stars/aaronlab/browsertrace?style=social) | Local trace viewer for failed AI browser-agent runs |
 | [Axiom](https://axiom.ai/) | Browser automation — no code required |
 | [HARPA AI](https://harpa.ai/) | AI-powered browser automation extension |
 
