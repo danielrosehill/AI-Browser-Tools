@@ -142,6 +142,7 @@ Closed-source and commercial AI browser products and platforms.
 | **ChatGPT Atlas** | [chatgpt.com/atlas](https://chatgpt.com/atlas/) | ChatGPT browser integration |
 | **BrowserOS** | [browseros.com](https://www.browseros.com/) | Browser-based OS with AI |
 | **Browserbase** | [browserbase.com](https://www.browserbase.com/) | Cloud browser infrastructure for AI |
+| **Cloudbrowser** | [cloudbrowser.tv](https://cloudbrowser.tv) | Managed cloud Chrome for AI agent workflows; CDP access, Live View, and pause/resume; currently in private preview |
 | **Skyvern** | [skyvern.com](https://www.skyvern.com/) | Commercial browser automation platform |
 | **HyperBrowser** | [hyperbrowser.ai](https://www.hyperbrowser.ai/) | AI browser platform |
 | **Next Browser** | [nextbrowser.com](https://nextbrowser.com/) | AI-powered browser |
